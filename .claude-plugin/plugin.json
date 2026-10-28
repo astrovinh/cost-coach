@@ -1,0 +1,6 @@
+{
+  "name": "cost-coach",
+  "version": "0.1.0",
+  "description": "Tells you when to lower effort or switch to a smaller model to save cost, and when to raise it back so quality does not suffer.",
+  "types": "./types/index.d.ts"
+}

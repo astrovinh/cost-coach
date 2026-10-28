@@ -1,0 +1,5 @@
+{
+  "name": "cost-coach",
+  "owner": { "name": "astrovinh" },
+  "plugins": [{ "name": "cost-coach", "source": "./" }]
+}
